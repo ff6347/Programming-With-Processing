@@ -6,44 +6,29 @@ Input Output Basics of Procedural Design by Fabian Morón Zirfas
 
 
 
-ex0
----
-
-Basic build in variables like width and heigt  
+###ex0 Basic build in variables like width and heigt  
 
 - Do calculations based on canvas width and height. 
 - Output to console  
 
 
-ex1
----
-
-Basics primitive formes.
+###ex1 Basics primitive formes.
 
 - Draw a human  
 
 ![](humans.png)  
 
-ex2
----
+###ex2 Colors in RGB  
 
+- use HSB!
 
-ex3
----
+###ex3 mouse interaction
 
+###ex4 conditional save images 
 
-ex4
----
+###ex5 using loops
 
-
-ex5
----
-
-
-ex6
----
-
-
+###ex6 particle system
 
 Copyright (c)  2014 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
