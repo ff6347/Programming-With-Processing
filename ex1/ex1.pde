@@ -10,7 +10,7 @@ float bmi = 1; // body mass index
 line(x - w, y + h, x +w, y+h);
 // a ellipse always takes 4 values as parameter
 ellipse(x, y, w, h);
-// a point just to
+// a point just two
 point(x, y); // look he has a nose
 // a rectangle also takes 4 values like the ellipse
 // but draws from its upper left corner
