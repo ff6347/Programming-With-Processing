@@ -4,7 +4,7 @@
 int x = width/2;
 int y = 25;
 int w = 23; // make him bigger or smaller
-int h = w; // distort by change the y seperatly
+int h = w; // distort by changing the h seperatly
 float bmi = 1; // body mass index
 // a line takes 4 values the starting point and the end point
 line(x - w, y + h, x +w, y+h);
