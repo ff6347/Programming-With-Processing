@@ -14,8 +14,10 @@ void draw() {
   rect(0, 0, width, height);
   // do the circle color transformation
   fill(mouseX);
+  // draw an ellipse
   ellipse(mouseX, mouseY, 10, 10);
 
+  // print some infos
   println("Frame number: " + frameCount);
   print("mouse x: " + mouseX );
   println(" mouse y: " + mouseY );
