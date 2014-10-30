@@ -5,30 +5,66 @@ Examples written for University of Applied Sciences Potsdam (Germany) FHP
 Input Output Basics of Procedural Design by Fabian Morón Zirfas  
 
 
+###ex0 Basic build in variables like width and height  
 
-###ex0 Basic build in variables like width and heigt  
+__assignment:__  
 
 - Do calculations based on canvas width and height. 
-- Output to console  
+- Output to console.  
 
 
 ###ex1 Basics primitive formes.
 
-- Draw a human  
+__assignment:__  
 
-![](humans.png)  
+- Draw a human.  
+
+![](images/humans.png)  
 
 ###ex2 Colors in RGB  
 
-- use HSB!
+__assignment:__  
+- make a compelling color compelling color composition.
+- use HSB
 
-###ex3 mouse interaction
+![](images/colors.png)  
 
-###ex4 conditional save images 
+###ex3 mouse interaction   
+
+__assignment:__  
+- write a programm that changes parameters based on the mouse position.
+
+![](images/mouse.png)
+
+###ex4 conditional and save images  
+
+__assignment:__  
+
+- write a programm that changes a color or shape on a keypress.  
+
+![](ex4/image-black.png) ![](ex4/image-white.png)  
 
 ###ex5 using loops
 
-###ex6 particle system
+__assignment:__  
+
+- fill the canvas with primitive forms by using a loop.  
+
+![](images/loop.png)
+
+
+
+###ex6 Particle System (Advanced)  
+
+__assignment:__  
+- download or clone the repo  
+- change the display of all particles at once
+
+![](images/particles.gif)  
+
+------------
+
+##License
 
 Copyright (c)  2014 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
