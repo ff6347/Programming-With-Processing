@@ -2,10 +2,10 @@ Programming With Processing
 ===========================
 
 Examples written for University of Applied Sciences Potsdam (Germany) FHP  
-Input Output Basics of Procedural Design by Fabian Morón Zirfas  
+[Input/Output](https://incom.org/workspace/5478) Basics of Process-Oriented Design by Fabian Morón Zirfas  
 
 
-###ex0 Basic build in variables like width and height  
+###[ex0](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex0/ex0.pde) Basic build in variables like width and height  
 
 __assignment:__  
 
@@ -13,7 +13,7 @@ __assignment:__
 - Output to console.  
 
 
-###ex1 Basics primitive formes.
+###[ex1](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex1/ex1.pde) Basics primitive formes.
 
 __assignment:__  
 
@@ -21,7 +21,7 @@ __assignment:__
 
 ![](images/humans.png)  
 
-###ex2 Colors in RGB  
+###[ex2](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex2/ex2.pde) Colors in RGB  
 
 __assignment:__  
 - make a compelling color compelling color composition.
@@ -29,14 +29,14 @@ __assignment:__
 
 ![](images/colors.png)  
 
-###ex3 mouse interaction   
+###[ex3](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex3/ex3.pde) mouse interaction   
 
 __assignment:__  
 - write a programm that changes parameters based on the mouse position.
 
 ![](images/mouse.png)
 
-###ex4 conditional and save images  
+###[ex4](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex4/ex4.pde) conditional and save images  
 
 __assignment:__  
 
@@ -44,7 +44,7 @@ __assignment:__
 
 ![](ex4/image-black.png) ![](ex4/image-white.png)  
 
-###ex5 using loops
+###[ex5](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex5/ex5.pde) using loops
 
 __assignment:__  
 
@@ -54,7 +54,7 @@ __assignment:__
 
 
 
-###ex6 Particle System (Advanced)  
+###[ex6](https://raw.githubusercontent.com/fabiantheblind/Programming-With-Processing/master/ex6/ex6.pde) Particle System (Advanced)  
 
 __assignment:__  
 - download or clone the repo  
